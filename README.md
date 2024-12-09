@@ -1,4 +1,3 @@
-Here are the steps for attacking a **WPA Enterprise** network based on the scenario you've provided. I'll mimic the process from start to finish, including the required tools and commands:
 
 ---
 
